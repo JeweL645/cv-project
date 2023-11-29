@@ -1,0 +1,173 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{   
+    background-color: #BEC5C8;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container{
+    max-width: 1000px;
+    background-color: #C9D8E8;
+    margin: 0 auto;
+    padding: 10px;      
+}
+
+header{
+}
+
+#logoImg{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 70%;
+    float: left;
+}
+
+.header-bio{
+    float: left;
+    padding:30px;
+}
+
+h1, h2, h3, h4, h5{
+    color: #11999e;
+}
+
+.header-contact{
+    float: right;
+    padding: 32px;
+}
+
+.header-contact a{ 
+    text-decoration: none;
+    color: #11999E;
+    font-weight: bold;
+}
+
+.header-contact a:hover{
+    text-decoration:underline;
+    color:red;
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+    margin: 20px auto;
+    width:100%;
+    border: solid black 3px;
+    border-bottom: none;
+}
+
+#personal-section{
+
+}
+
+.personal-content{
+    margin-bottom: 20px;
+
+   
+
+
+}
+.left-div{
+    width:30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: left;
+
+}
+
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width:100%;
+    margin: 20px auto;
+
+}
+
+#Work-section{
+
+}
+
+.Work-content{
+
+
+}
+
+#keySkill-section{
+
+
+}
+
+.skill-content{
+
+
+}
+
+#Educational-section{
+
+
+}
+
+.personal-content{
+
+
+}
+
+.ssc-div{
+    float: left;
+    width: 33%;
+
+}
+
+.hsc-div{
+    float: left;
+    width: 33.5%;
+
+}
+
+.bsc-div{
+    float: left;
+    width:33.5%;
+
+}
+
+.bottom-part{
+
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.bottom-part a{
+    color: white;
+    text-decoration: none;
+    margin:20px;
+
+
+}
+
+.bottom-part p{
+    color: white;
+    
+    margin:20px;
+
+
+}
+
+.bottom-part a:hover{
+    text-decoration: underline;
+    color:red;
+}
+
+
+
+
